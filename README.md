@@ -21,7 +21,7 @@ The data used was RNAseq performed on blood samples collected from healthy pigs 
 
 ***Discoveries***
 #### Gwas analysis
-
+![Alt Image text](/relative/path/to/img.png?raw=true "Optional Title") 
 
 
 ***Discussion***
